@@ -37,12 +37,18 @@ The dataset is sourced from Kaggle and includes:
 
 ## How to Run This Project
 
-```sh
+
 # 1. Clone the repository
+```sh
 git clone <repository_url>
+```
 
 # 2. Install dependencies
+```sh
 pip install -r requirements.txt
+```
 
 # 3. Run the Notebook
+```sh
 # Open the Google Colab link to view and run the analysis.
+```
