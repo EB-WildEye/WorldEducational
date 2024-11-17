@@ -49,6 +49,4 @@ pip install -r requirements.txt
 ```
 
 3. Run the Notebook
-```sh
-# Open the Google Colab link to view and run the analysis.
-```
+Open the Google Colab link to view and run the analysis.
