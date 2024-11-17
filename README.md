@@ -40,7 +40,7 @@ The dataset is sourced from Kaggle and includes:
 
 1. Clone the repository
 ```sh
-git clone <repository_url>
+git clone https://github.com/EB-WildEye/WorldEducational
 ```
 
 2. Install dependencies
